@@ -1,0 +1,9 @@
+.myvenv/
+myvenv/
+.vscode/
+.airflow/
+.pytest_cache/
+logs/
+*.db
+**/__pycache__/
+
